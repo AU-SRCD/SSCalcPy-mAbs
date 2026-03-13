@@ -3,11 +3,13 @@ Version of the SSCalcPy software for Circular Dichroism secondary structure calc
 
 For a version of SSCalcPy under the Creative Commons Attribution-NonCommercial-ShareAlike license (CC BY-NC-SA 4.0) license, which does not include the mAbs reference set, see the repository AU-SRCD/SSCalcPy
 
+To download the code, click the green "<> CODE" button, and select "Download ZIP"
+
 The research behind the SSCalcPy software is publiched as
 
 Analysing the structure of antibodies using circular dichroism with an antibody augmented reference set and the algorithm SELCON<br/>
 Hoffmann, S. V., Bruque, M. G., Jones, N. C., Rodger, A., Aucamp, J., Dafforn, T. R. & Thomas, O. R. T.<br/> 
-European Biophysics Journal, Volume, 2026, (DOI: )
+European Biophysics Journal, Volume, 2026, (DOI: https://doi.org/10.1007/s00249-026-01828-5)
 
 as a follow up on to the version in AU-SRCD / SSCalcPy published as
 
