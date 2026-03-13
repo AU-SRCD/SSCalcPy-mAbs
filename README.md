@@ -3,7 +3,7 @@ Version of the SSCalcPy software for Circular Dichroism secondary structure calc
 
 For a version of SSCalcPy under the Creative Commons Attribution-NonCommercial-ShareAlike license (CC BY-NC-SA 4.0) license, which does not include the mAbs reference set, see the repository AU-SRCD/SSCalcPy
 
-To download the code, click the green "<> CODE" button, and select "Download ZIP"
+To download the code, click the green "<> Code" button, and select "Download ZIP"
 
 The research behind the SSCalcPy software is publiched as
 
