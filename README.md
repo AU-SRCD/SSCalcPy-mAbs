@@ -14,5 +14,5 @@ European Biophysics Journal, Volume, 2026, (DOI: https://doi.org/10.1007/s00249-
 as a follow up on to the version in AU-SRCD / SSCalcPy published as
 
 Protein secondary structure determined from independent and integrated infra-red absorbance and circular dichroism data using the algorithm SELCON<br/>
-Hoffmann, S. V., Jones, N. C. & Rodger, A., 2025<br/>
+Hoffmann, S. V., Jones, N. C. & Rodger, A.<br/>
 QRB Discovery , Volume 6 , 2025 , e10 (DOI: https://doi.org/10.1017/qrd.2025.4)
